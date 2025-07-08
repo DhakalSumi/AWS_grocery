@@ -83,6 +83,13 @@ terraform.tfstate.backup	Backup of previous state
                                  │
                         [ S3 Static Storage ]
 
+Images
+![Screenshot 2025-06-25 at 13 46 39](https://github.com/user-attachments/assets/ecd893cb-067d-47bb-b5a9-85277d7fa011)
+<img width="581" alt="Screenshot 2025-06-17 at 10 32 12" src="https://github.com/user-attachments/assets/6194234c-f122-44a6-8c84-e4d2d1af263e" />
+![Screenshot 2025-06-12 at 15 38 14](https://github.com/user-attachments/assets/e9ac2df6-9231-4291-8260-ccd6aed2e266)
+
+
+
 🔐 Security
 Security Groups used to allow only necessary ports (e.g., 22, 80, 5432)
 No hardcoded secrets — environment variables via .env file
