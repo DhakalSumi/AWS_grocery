@@ -15,7 +15,7 @@
 ## 📌 Table of Contents
 
 - [Overview](#-overview)
-- Project Architecture 
+- [Architecture Diagram](#architecture-diagram) 
 - [Features](#-features)
 - [Screenshots & Demo](#-screenshots--demo)
 - [Prerequisites](#-prerequisites)
