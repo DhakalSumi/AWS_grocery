@@ -77,8 +77,8 @@ terraform.tfstate	Current state of infrastructure
 terraform.tfstate.backup	Backup of previous state
 
 Images
-![Screenshot](https://github.com/user-attachments/assets/587bb739-997e-41a3-8b65-ee7ddc07ea83)
-<img width="581" alt="Screenshot 2025-06-17 at 10 32 12" src="https://github.com/user-attachments/assets/7032a75f-c617-4b86-813d-7dbb84b547bc" />
+https://github.com/user-attachments/assets/587bb739-997e-41a3-8b65-ee7ddc07ea83
+https://github.com/user-attachments/assets/7032a75f-c617-4b86-813d-7dbb84b547bc
 
 
 
